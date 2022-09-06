@@ -1,4 +1,5 @@
 # landing-template
+Un proyecto personal con vue + vuetify. Con próposito de tener un template listo para generar landing pages facilmente.
 
 ## Project setup
 ```
